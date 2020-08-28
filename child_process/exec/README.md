@@ -11,7 +11,7 @@ const { exec } = require("child_process")
 
 exec es una funcion del modulo child_process que permite ejecutar comando en la consola,
 
-Recive 2 páramentros:
+Recibe 2 páramentros:
 
 - command
 
