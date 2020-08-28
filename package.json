@@ -1,0 +1,16 @@
+{
+  "name": "curso-fundamentos-node",
+  "version": "1.0.0",
+  "description": "Esta es una pequeña ayuda para entender como funciona node js fundamentalmente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon child_process/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
